@@ -97,6 +97,11 @@
     <string name="quick_settings_tiles_retail_mode" translatable="false">
         night,dark,dnd,flashlight,rotation,location
     </string>
+    
+    <!-- The default tiles to display in QuickSettings -->
+    <string name="quick_settings_tiles_extra" translatable="false">
+        caffeine
+    </string>
 
     <!-- Tiles to auto add to Quick Settings upon first change of a given secure setting.
          The syntax is setting-name:spec. If the tile is a TileService, the spec should be specified
