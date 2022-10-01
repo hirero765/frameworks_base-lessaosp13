@@ -7435,7 +7435,12 @@ message MetricsEvent {
     // OS: Q
     SETTINGS_AWARE_DISPLAY = 1750;
     // ---- End Q Constants, all Q constants go above this line ----
+
+    // QS Tiles Metrics
+    // VoidUI Project
+    QS_Tiles = 2001;
+
     // Add new aosp constants above this line.
-    // END OF AOSP CONSTANTS     
+    // END OF AOSP CONSTANTS
   }
 }
